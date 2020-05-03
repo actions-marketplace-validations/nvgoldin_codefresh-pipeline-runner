@@ -1,6 +1,6 @@
-name: 'Codefresh pipeline runner'
+name: 'Codefresh pipeline runner - forked - PR5'
 description: 'Github action that runs codefresh pipeline'
-author: 'codefresh-inc'
+author: 'nvgoldin'
 branding:
   icon: 'arrow-right-circle'
   color: 'green'
